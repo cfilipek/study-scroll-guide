@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/study-scroll-guide/static/css/main.9be20d2b.chunk.css",
+    "main.js": "/study-scroll-guide/static/js/main.d93c5afd.chunk.js",
+    "main.js.map": "/study-scroll-guide/static/js/main.d93c5afd.chunk.js.map",
+    "runtime-main.js": "/study-scroll-guide/static/js/runtime-main.ae79089a.js",
+    "runtime-main.js.map": "/study-scroll-guide/static/js/runtime-main.ae79089a.js.map",
+    "static/js/2.f978868c.chunk.js": "/study-scroll-guide/static/js/2.f978868c.chunk.js",
+    "static/js/2.f978868c.chunk.js.map": "/study-scroll-guide/static/js/2.f978868c.chunk.js.map",
+    "index.html": "/study-scroll-guide/index.html",
+    "precache-manifest.8ca66c4281fb84384ef050859decf6ca.js": "/study-scroll-guide/precache-manifest.8ca66c4281fb84384ef050859decf6ca.js",
+    "service-worker.js": "/study-scroll-guide/service-worker.js",
+    "static/css/main.9be20d2b.chunk.css.map": "/study-scroll-guide/static/css/main.9be20d2b.chunk.css.map",
+    "static/js/2.f978868c.chunk.js.LICENSE.txt": "/study-scroll-guide/static/js/2.f978868c.chunk.js.LICENSE.txt",
+    "static/media/big-o-graph.png": "/study-scroll-guide/static/media/big-o-graph.9c24f10d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae79089a.js",
+    "static/js/2.f978868c.chunk.js",
+    "static/css/main.9be20d2b.chunk.css",
+    "static/js/main.d93c5afd.chunk.js"
+  ]
+}
